@@ -6,5 +6,5 @@ Hi, welcome to my profile. I won't go into too much detail about myself—I pref
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **My OS**         | <img src="https://skillicons.dev/icons?i=windows,arch" title="Windows, Arch linux" />                                                                                                  |
 | **Languages**     | <img src="https://skillicons.dev/icons?i=js,py,cpp,html,css" title="JavaScript, Python, C++, HTML, CSS" />                                                                                      |
-| **My communication**     | <img src="https://skillicons.dev/icons?i=github,discord,telegram" title="GitHub, Discord, Telegram" />                                                                                 |
+| **My communication**     | <img src="https://skillicons.dev/icons?i=github,discord" title="GitHub, Discord" />                                                                                 |
 | **Other usage**   | <img src="https://skillicons.dev/icons?i=obsidian" title="Obsidian, " />                                                                                                                         |
